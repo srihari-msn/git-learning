@@ -1,0 +1,5 @@
+Day 1 Learning
+
+- Created GitHub account
+- Created repository
+- Updated README
